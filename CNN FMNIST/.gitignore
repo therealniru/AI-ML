@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Datasets (Keep large data out of GitHub)
+*.csv
+*.json
+*.gz
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Python caching
+__pycache__/
+*.pyc
